@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shatabdi-sarker
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on DAta science
+- 💞️ I’m looking to collaborate on Data science
 - 📫 Reach me:shatabdi0320@gmail.com
 
 <!---
